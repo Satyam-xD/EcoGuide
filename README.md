@@ -2,7 +2,6 @@
 
 EcoGuide is an intelligent web application that helps users **measure**, **monitor**, and **reduce** their environmental impact. Built with **React.js** and powered by a **machine learning backend (Flask + Random Forest Regressor)**, it provides accurate carbon footprint predictions based on user behavior.
 
-![EcoGuide Banner](https://i.imgur.com/ekOt9zN.png) <!-- Replace this link with your own banner image if available -->
 
 ---
 
